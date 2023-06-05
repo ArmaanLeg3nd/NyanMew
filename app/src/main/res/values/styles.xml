@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.NyanMew" parent="Theme.AppCompat.Light">
+        <!-- Customize your style attributes here -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorAccent">@color/accentColor</item>
+        <item name="android:windowBackground">@color/backgroundColor</item>
+        <!-- Add more style attributes as needed -->
+    </style>
+</resources>
